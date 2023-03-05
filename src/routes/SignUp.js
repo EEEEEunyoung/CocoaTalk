@@ -7,8 +7,8 @@ return (
       <form style={{ display: 'flex', flexDirection: 'column'}}
          
       >
-          <label>Email</label>
-          <input type='email'  />
+          <label>ID</label>
+          <input type='id' />
           <label>Name</label>
           <input type='text'  />
           <label>Password</label>

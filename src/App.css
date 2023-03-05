@@ -1,3 +1,6 @@
+*{
+}
+
 .main-bg{
   height:300px;
   background-image: url(./logo.JPG);
@@ -20,5 +23,27 @@
 
 .container {
   text-align: center;
+}
+
+
+.photocon{
+  text-align: center;
+  margin-left: 30%;
+  width:500px;
+  height: 100%;
+}
+
+.photos{
+  width:500px;
+  height: 1000px;
+  background-image: url('../public/image/nekut1.JPG');
+  background-size: cover;
+  background-position: center;
+}
+
+.photo-frame{
+   background-color: white;
+   margin: 15px 20px;
+   height: 200px;
 }
 

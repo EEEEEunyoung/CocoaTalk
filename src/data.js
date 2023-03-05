@@ -1,33 +1,33 @@
 let data = [
     {
       id: 0,
-      title: "White and Black",
-      content: "Born in France",
-      price : 120000
+      title: "Frame1_brown",
+      content: "ㅎㅇㅎㅇㅎㅇ",
+      price : 2000
     },
     {
       id: 1,
-      title: "Red Knit",
-      content: "Born in Seoul",
-      price : 110000
+      title: "Frame2_blue",
+      content: "ㅎㅇㅎㅇㅎㅇ",
+      price : 3000
     },
     {
       id: 2,
-      title: "Grey Yordan",
-      content: "Born in the States",
-      price : 130000
+      title: "Frame3_pink",
+      content: "ㅎㅇㅎㅇㅎㅇ",
+      price : 4000
     }, 
     {
       id: 3,
-      title: "hihi",
-      content: "Born in Italy",
-      price : 115000
+      title: "Frame4_잔망루피",
+      content: "ㅎㅇㅎㅇ",
+      price : 5000
     },
     {
       id: 4,
-      title: "hello",
-      content: "Born in UK",
-      price : 138000
+      title: "hello_준비중",
+      content: "ㅎㅇㅎㅇ",
+      price : 6000
     },
 ]
 

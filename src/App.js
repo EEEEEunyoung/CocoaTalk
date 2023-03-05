@@ -85,7 +85,8 @@ function ShoesItems(props){
   return (
            <div className="col-md-4">
               <a href={'/detail/'+props.i}>
-                  <img  src={'https://codingapple1.github.io/shop/shoes'+props.i+'.jpg'} width="80%"/>
+              <img  src={'image/nekut'+props.i+'.JPG'} width="80%"/>
+{/*                   <img  src={'https://codingapple1.github.io/shop/shoes'+props.i+'.jpg'} width="80%"/> */}
                  </a>
                  <h4>{props.shoes.title}</h4>
                <p>{props.shoes.price}</p>
